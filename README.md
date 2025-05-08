@@ -1,3 +1,5 @@
+Instagram Inspired web application , includes all the features that are in instagram and currently building the messaging interface
+
 
 ### Setup .env file
 
